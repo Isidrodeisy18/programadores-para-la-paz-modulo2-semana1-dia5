@@ -1,0 +1,47 @@
+Conceptos básicos de promesas – Módulo 2 Semana 1 Día 5
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Responde con tus propias palabras.
+
+1. ¿Qué es una promesa en JavaScript?
+
+Respuesta:
+
+2. ¿Por qué fetch devuelve una promesa?
+
+Respuesta:
+
+3. ¿Qué significa esperar una respuesta del servidor?
+
+Respuesta:
+
+4. ¿Qué hace .then()?
+
+Respuesta:
+
+5. ¿Qué hace .catch()?
+
+Respuesta:
+
+6. ¿Qué diferencia hay entre una respuesta exitosa y un error?
+
+Respuesta:
+
+7. ¿Qué hace respuesta.json() en esta práctica?
+
+Respuesta:
+
+8. ¿Qué pasa si el servidor no está funcionando?
+
+Respuesta:
+
+9. ¿Por qué una plataforma comunitaria debe mostrar errores comprensibles?
+
+Respuesta:
+
+10. ¿Cómo se relacionan promesas, fetch y API?
+
+Respuesta:

@@ -1,0 +1,65 @@
+Bitácora de pruebas de API – Módulo 2 Semana 1 Día 5
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Prueba 1: Consultar propuestas
+
+Ruta:
+GET /api/propuestas
+
+Resultado esperado:
+La API muestra la lista de propuestas.
+
+Resultado observado:
+
+¿Funcionó?
+Respuesta:
+
+Prueba 2: Enviar propuesta completa
+
+Ruta:
+POST /api/propuestas
+
+Datos enviados:
+Título:
+Mensaje:
+Categoría:
+Audiencia:
+Tono:
+Llamado a la acción:
+Autor:
+
+Resultado esperado:
+La API guarda la propuesta y responde con mensaje de confirmación.
+
+Resultado observado:
+
+¿Funcionó?
+Respuesta:
+
+Prueba 3: Enviar sin título
+
+Resultado esperado:
+La API responde que falta el título.
+
+Resultado observado:
+
+¿Funcionó?
+Respuesta:
+
+Prueba 4: Enviar sin mensaje
+
+Resultado esperado:
+La API responde que falta el mensaje.
+
+Resultado observado:
+
+¿Funcionó?
+Respuesta:
+
+Conclusión:
+¿Qué prueba te ayudó más a entender el funcionamiento de la API?
+
+Respuesta:

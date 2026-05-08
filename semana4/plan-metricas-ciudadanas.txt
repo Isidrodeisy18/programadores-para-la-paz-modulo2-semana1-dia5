@@ -1,0 +1,51 @@
+Plan corto de métricas ciudadanas – Módulo 2 Semana 1 Día 5
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Una métrica ciudadana es un dato sencillo que ayuda a hacer seguimiento sin invadir la privacidad.
+
+1. ¿Qué se quiere observar?
+
+Respuesta:
+
+2. Métrica 1:
+Ejemplo: número de propuestas recibidas.
+
+Respuesta:
+
+3. ¿Cada cuánto se revisará esta métrica?
+Ejemplo: semanal, quincenal, mensual.
+
+Respuesta:
+
+4. ¿Qué decisión puede tomar la comunidad con esta información?
+
+Respuesta:
+
+5. Métrica 2:
+Ejemplo: número de propuestas por categoría.
+
+Respuesta:
+
+6. ¿Cómo ayuda esta métrica a organizar mejor la participación?
+
+Respuesta:
+
+7. Métrica 3:
+Ejemplo: número de mensajes que requieren revisión editorial.
+
+Respuesta:
+
+8. ¿Qué datos personales NO se deben recolectar para estas métricas?
+
+Respuesta:
+
+9. ¿Cómo se relacionan las métricas con transparencia y rendición de cuentas?
+
+Respuesta:
+
+10. Escribe un compromiso de uso responsable de métricas:
+
+Respuesta:

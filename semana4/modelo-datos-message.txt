@@ -1,0 +1,85 @@
+Modelo de datos tipo message – Módulo 2 Semana 1 Día 5
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Un mensaje comunitario debe tener una estructura clara antes de publicarse o guardarse.
+
+Campos obligatorios:
+
+1. titulo
+Descripción:
+Título claro del mensaje o propuesta.
+
+2. mensaje
+Descripción:
+Contenido principal de la propuesta o aviso.
+
+3. categoria
+Descripción:
+Tema que permite organizar el mensaje.
+
+4. audiencia
+Descripción:
+Grupo al que va dirigido el mensaje.
+
+5. tono
+Descripción:
+Forma en que se comunica el mensaje.
+
+6. llamadoAccion
+Descripción:
+Acción esperada por parte de la comunidad.
+
+7. autor
+Descripción:
+Persona o grupo responsable del mensaje.
+
+8. estado
+Descripción:
+Situación actual del mensaje. Ejemplo: recibida, en revisión, publicada.
+
+9. revisionEditorial
+Descripción:
+Estado de revisión comunicativa. Ejemplo: pendiente, aprobada, requiere ajuste.
+
+10. fecha
+Descripción:
+Momento en que fue recibida la propuesta.
+
+Campos opcionales:
+
+1. fuente
+Respuesta:
+
+2. evidenciaMinima
+Respuesta:
+
+3. canal
+Respuesta:
+
+4. responsableRevision
+Respuesta:
+
+Categorías permitidas:
+
+- prevencion-desinformacion
+- cultura-de-paz
+- participacion-ciudadana
+- convivencia-digital
+
+Reglas mínimas de publicación:
+
+1. No publicar mensajes sin título.
+2. No publicar mensajes sin propósito comunitario.
+3. No publicar mensajes sin categoría.
+4. No publicar mensajes con lenguaje ofensivo.
+5. No publicar mensajes con lenguaje estigmatizante.
+6. No publicar afirmaciones verificables sin fuente.
+7. No publicar datos personales innecesarios.
+
+Explica con tus palabras:
+¿Por qué este modelo ayuda a organizar mejor la información comunitaria?
+
+Respuesta:

@@ -1,0 +1,41 @@
+Registro de depuración con IA – Módulo 2 Semana 1 Día 5
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Importante:
+La IA puede apoyar la depuración, pero toda sugerencia debe revisarse, entenderse y probarse antes de aceptarse.
+
+1. Error o duda técnica revisada:
+Ejemplos: no funciona fetch, no carga la API, error en JSON, el formulario no envía, el servidor no inicia.
+
+Respuesta:
+
+2. Pregunta formulada a la IA:
+
+Respuesta:
+
+3. Resumen de la sugerencia recibida:
+
+Respuesta:
+
+4. ¿Qué parte de la sugerencia entendiste?
+
+Respuesta:
+
+5. ¿Qué cambio aplicaste?
+
+Respuesta:
+
+6. ¿Cómo probaste que funcionó?
+
+Respuesta:
+
+7. ¿Qué aprendiste de la depuración?
+
+Respuesta:
+
+8. ¿La IA resolvió todo o necesitaste verificar por tu cuenta?
+
+Respuesta:
